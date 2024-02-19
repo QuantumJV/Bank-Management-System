@@ -22,6 +22,6 @@ The function AccDeposit() enables users to deposit money into their accounts. It
 The closeAcc() function facilitates closing a customer's account. It deletes the account details and associated transaction history from the database based on the provided account number.
 
 
-**View All Customer Details:**
+**View All Customer Details:**\n
 The function accView() retrieves and displays all details of a specific customer, including account information, transaction history (deposits and withdrawals), and total deposited amount.
 Overall, this banking system project provides essential functionalities required for managing banking operations efficiently, including user authentication, customer data management, transaction handling (deposits and withdrawals), and account closure. Users can perform various actions like depositing money, withdrawing money, viewing customer details, and closing accounts through a command-line interface. The project leverages Python for scripting and MySQL for database management, ensuring data integrity and security.
