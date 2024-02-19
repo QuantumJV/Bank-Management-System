@@ -2,7 +2,7 @@
 
 The provided code is a Python script for a banking system project utilizing MySQL for data storage and retrieval. The project encompasses various features essential for managing banking operations. Let's break down the features and functionalities present in the project:
 
-**Username and Password Authentication:**
+# Username and Password Authentication:
 
 The script implements a function authenticate_user() to authenticate users based on their username and password. It allows a limited number of login attempts before exiting the program.
 
