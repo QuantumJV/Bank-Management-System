@@ -2,10 +2,10 @@
 
 Banking System Project using Python and SQL
 
-Description:
+# Description:
 This project is a comprehensive banking system implemented in Python with MySQL for database management. It provides essential functionalities required for managing banking operations efficiently, including money withdrawal and deposit, viewing customer details, adding customer details, closing accounts, viewing all customer details, and implementing username and password authentication for user access.
 
-Key Features:
+# Key Features:
 
 Money Withdrawal and Deposit: Users can withdraw or deposit money from/to their accounts securely. Proper transaction logging is implemented to ensure data integrity.
 
@@ -19,7 +19,7 @@ View All Customer Details: Administrators have access to view all customer detai
 
 Username and Password Authentication: Secure authentication mechanisms are implemented to ensure that only authorized users can access the system. Username and password validation are performed during login.
 
-Usage:
+# Usage:
 
 Clone the repository to your local machine.
 Ensure Python and MySQL are installed.
@@ -29,14 +29,14 @@ Users can log in using their username and password, with a limited number of log
 Note:
 This project is provided for educational purposes and can be used as a foundation for building more complex banking systems or as a learning resource for Python programming and SQL database management.
 
-Credits:
-The code for this project was authored by [QuantumJV] and is available on [[GitHub Repository URL](https://github.com/QuantumJV/Bank-Management-System/tree/main)]. Special thanks to the author for sharing this valuable resource with the community.
+# Credits:
+The code for this project was authored by [QuantumJV] and is available on [[Banking Management System](https://github.com/QuantumJV/Bank-Management-System/tree/main)]. Special thanks to the author for sharing this valuable resource with the community.
 
-License:
+# License:
 [Specify the license under which the project is shared, e.g., MIT License, GNU General Public License, etc.]
 
-Contributions:
+# Contributions:
 Contributions to the project are welcome. Feel free to fork the repository, make changes, and submit pull requests for consideration.
 
-Disclaimer:
+# Disclaimer:
 This project should be used responsibly and ethically. Any unauthorized use or modification of the code is discouraged. The authors and contributors are not liable for any misuse or damage caused by the project.
