@@ -1,4 +1,4 @@
-#Banking Management System
+# Banking Management System
 
 Banking System Project using Python and SQL
 
