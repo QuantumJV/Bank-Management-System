@@ -19,6 +19,8 @@ View All Customer Details: Administrators have access to view all customer detai
 
 Username and Password Authentication: Secure authentication mechanisms are implemented to ensure that only authorized users can access the system. Username and password validation are performed during login.
 
+[Username and Password Authentication:](https://github.com/QuantumJV/Bank-Management-System/blob/main/1.png))https://github.com/QuantumJV/Bank-Management-System/blob/main/1.png
+
 # Usage:
 
 Clone the repository to your local machine.
