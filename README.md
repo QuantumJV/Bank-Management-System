@@ -19,7 +19,8 @@ The function AccDeposit() enables users to deposit money into their accounts. It
 **The function AccWithdraw()** allows users to withdraw money from their accounts. It prompts the user to enter the account number, amount to be withdrawn, and the month of withdrawal.
 
 **Close Account:**
-__The closeAcc()__ function facilitates closing a customer's account. It deletes the account details and associated transaction history from the database based on the provided account number.
+The closeAcc() function facilitates closing a customer's account. It deletes the account details and associated transaction history from the database based on the provided account number.
+
 
 **View All Customer Details:**
 The function accView() retrieves and displays all details of a specific customer, including account information, transaction history (deposits and withdrawals), and total deposited amount.
