@@ -23,7 +23,7 @@ Username and Password Authentication: Secure authentication mechanisms are imple
   <br>
   <a href="https://github.com/QuantumJV/Bank-Management-System/tree/main"><img src="![8](https://github.com/QuantumJV/Bank-Management-System/assets/98264975/a9521301-b500-48fa-a8ce-0337df1734a8)" alt="Banking Managhement System"></a>
   <br>
-  TBomb v2.1b
+  Banking Management System
   <br>
 </h1>
 
