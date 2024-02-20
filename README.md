@@ -28,7 +28,7 @@ Username and Password Authentication: Secure authentication mechanisms are imple
 </h1>
 
 
-<p align="center">A free and open-source SMS/Call bombing application</p>
+<p align="center">A free and open-source Banking System Project using Python and SQL</p>
 [Username and Password Authentication:](https://github.com/QuantumJV/Bank-Management-System/blob/main/1.png)
 
 # Usage:
