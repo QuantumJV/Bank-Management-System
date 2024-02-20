@@ -21,9 +21,31 @@ Username and Password Authentication: Secure authentication mechanisms are imple
 
 # Screenshots
 
-**Username and Password Authentication**
+**Username and Password Authentication - **
 
 ![Screenshot 1](screenshots/1.png)
+
+**Add Customer Details - **
+
+![Screenshot 2](screenshots/2.png)
+
+**View All Customer Details - **
+
+![Screenshot 3](screenshots/3.png)
+![Screenshot 4](screenshots/4.png)
+
+**Money Withdrawal and Deposit**
+
+![Screenshot 5](screenshots/5.png)
+![Screenshot 6](screenshots/6.png)
+
+**Close Account - **
+
+![Screenshot 7](screenshots/7.png)
+
+**View All Customer Details - **
+
+![Screenshot 8](screenshots/8.png)
 
 # Usage:
 
