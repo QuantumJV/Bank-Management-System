@@ -19,18 +19,6 @@ View All Customer Details: Administrators have access to view all customer detai
 
 Username and Password Authentication: Secure authentication mechanisms are implemented to ensure that only authorized users can access the system. Username and password validation are performed during login.
 
-<h1 align="center">
-  <br>
-  <a href="https://github.com/QuantumJV/Bank-Management-System/tree/main"><img src="![8](https://github.com/QuantumJV/Bank-Management-System/assets/98264975/a9521301-b500-48fa-a8ce-0337df1734a8)" alt="Banking Managhement System"></a>
-  <br>
-  Banking Management System
-  <br>
-</h1>
-
-
-<p align="center">A free and open-source Banking System Project using Python and SQL</p>
-[Username and Password Authentication:](https://github.com/QuantumJV/Bank-Management-System/blob/main/1.png)
-
 # Usage:
 
 Clone the repository to your local machine.
