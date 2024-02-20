@@ -21,6 +21,8 @@ Username and Password Authentication: Secure authentication mechanisms are imple
 
 # Screenshots
 
+![Screenshot 1](screenshot/1.png)
+
 # Usage:
 
 Clone the repository to your local machine.
