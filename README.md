@@ -21,7 +21,7 @@ Username and Password Authentication: Secure authentication mechanisms are imple
 
 # Screenshots
 
-![Screenshot 1](screenshot/1.png)
+![Screenshot 1](screenshots/1.png)
 
 # Usage:
 
