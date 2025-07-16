@@ -57,6 +57,11 @@ Users can log in using their username and password, with a limited number of log
 Note:
 This project is provided for educational purposes and can be used as a foundation for building more complex banking systems or as a learning resource for Python programming and SQL database management.
 
+##  Author
+
+**Jaival Soni**  
+B.Tech Computer Science  Engineering
+
 # Credits:
 The code for this project was authored by [QuantumJV] and is available on [[Banking Management System](https://github.com/QuantumJV/Bank-Management-System/tree/main)]. Special thanks to the author for sharing this valuable resource with the community.
 
