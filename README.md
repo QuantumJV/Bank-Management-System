@@ -60,8 +60,9 @@ This project is provided for educational purposes and can be used as a foundatio
 # Credits:
 The code for this project was authored by [QuantumJV] and is available on [[Banking Management System](https://github.com/QuantumJV/Bank-Management-System/tree/main)]. Special thanks to the author for sharing this valuable resource with the community.
 
-# License:
-[Specify the license under which the project is shared, e.g., MIT License, GNU General Public License, etc.]
+##  License
+
+[MIT License](LICENSE)
 
 # Contributions:
 Contributions to the project are welcome. Feel free to fork the repository, make changes, and submit pull requests for consideration.
