@@ -62,7 +62,7 @@ The code for this project was authored by [QuantumJV] and is available on [[Bank
 
 ##  License
 
-[MIT License](LICENSE)
+[MIT License](License)
 
 # Contributions:
 Contributions to the project are welcome. Feel free to fork the repository, make changes, and submit pull requests for consideration.
